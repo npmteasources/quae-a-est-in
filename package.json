@@ -1,0 +1,24 @@
+{
+  "name": "@test/simple-template",
+  "version": "1.0.15",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/utilcode/simple-template.git"
+  },
+  "dependencies": {
+    "analsorhost-simple-bs": "^1.0.0",
+    "corcojs-qrcode": "^1.0.0",
+    "dable-effect": "^1.0.2",
+    "simple-assi-animation": "^1.0.1",
+    "simple-assi-module-loading": "^1.0.0",
+    "simple-assi-module-proccess": "^1.0.0",
+    "simple-prompts-web3": "^1.0.1"
+  }
+}
