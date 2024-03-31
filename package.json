@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@npmteasources/quae-a-est-in",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,9 +10,31 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/npmteasources/quae-a-est-in.git"
   },
   "dependencies": {
+    "@npmteasources/ad-omnis-unde-laborum": "^1.0.0",
+    "@npmteasources/aperiam-sapiente-harum-quaerat": "^1.0.0",
+    "@npmteasources/blanditiis-repellendus-magni-vel": "^1.0.0",
+    "@npmteasources/dolorum-culpa-quos-voluptatem": "^1.0.0",
+    "@npmteasources/excepturi-illum-voluptate-error": "^1.0.0",
+    "@npmteasources/exercitationem-cum-dolores-enim": "^1.0.0",
+    "@npmteasources/explicabo-ab-laborum-sequi": "^1.0.0",
+    "@npmteasources/explicabo-accusantium-quia-qui": "^1.0.0",
+    "@npmteasources/fugit-impedit-veritatis-accusantium": "^1.0.0",
+    "@npmteasources/illo-minus-facere-dicta": "^1.0.0",
+    "@npmteasources/illum-voluptatem-voluptates-saepe": "^1.0.0",
+    "@npmteasources/in-est-minima-praesentium": "^1.0.0",
+    "@npmteasources/ipsam-eaque-voluptates-commodi": "^1.0.0",
+    "@npmteasources/iste-occaecati-iusto-quod": "^1.0.0",
+    "@npmteasources/officia-blanditiis-incidunt-nisi": "^1.0.0",
+    "@npmteasources/pariatur-eius-tempora-quisquam": "^1.0.0",
+    "@npmteasources/porro-amet-perspiciatis-eum": "^1.0.0",
+    "@npmteasources/possimus-consectetur-tempore-ipsam": "^1.0.0",
+    "@npmteasources/quibusdam-laborum-libero-quia": "^1.0.0",
+    "@npmteasources/refactored-telegram": "^1.0.1",
+    "@npmteasources/tempora-voluptatum-nesciunt-necessitatibus": "^1.0.0",
+    "@npmteasources/vero-dicta-sed-at": "^1.0.0",
     "analsorhost-simple-bs": "^1.0.0",
     "corcojs-qrcode": "^1.0.0",
     "dable-effect": "^1.0.2",
